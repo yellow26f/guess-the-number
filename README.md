@@ -9,3 +9,4 @@ guess the number
 1. Скомпилируйте программу:
    ```bash
    g++ main.cpp game.cpp -o guess-the-number
+2.
